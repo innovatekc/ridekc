@@ -1,0 +1,17 @@
+/vendor/*
+
+/.bundle
+
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+/log/*.log
+/tmp
+
+*.swp
+*.swo
+
+/.idea
+/.DS_Store
+
+*_db
